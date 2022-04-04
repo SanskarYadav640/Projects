@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SanskarYadav640
+- 👋 Hi, I’m @SanskarYadav
 - 👀 I’m interested in Technology 
 - 🌱 I’m currently learning Coding  
-- 💞️ I’m looking to collaborate on IBM or Infosys 
-- 📫 How to reach me by Email ID
+- 💞️ I’m looking to collaborate on IBM or Infosys
+- 📫 Reach me by Sanskaryadav640@gmail.com
 
 <!---
 SanskarYadav640/SanskarYadav640 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
